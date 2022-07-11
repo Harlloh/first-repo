@@ -237,6 +237,11 @@ nav {
   margin: 0 auto;
   /* margin-bottom: 20rem; */
 }
+.wavelogos{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .wavelogos img {
   justify-content: space-between;
   border-radius: 0.5rem;
